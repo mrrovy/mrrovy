@@ -1,16 +1,16 @@
-### Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrrovy&count_private=true&theme=tokyonight)
 
-<!--
-**mrrovy/mrrovy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey
 
-Here are some ideas to get you started:
+#### I am a .NET/Full-Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align="right" alt="bruh" width="150" src="https://user-images.githubusercontent.com/47538526/210071944-4df3585a-6d74-47f4-9d8c-ef601ef6a147.gif">
+
+#### My main interests are about cyber security, backend + frontend and VMs.
+#### My main way of programming is in:
+> C (C#) --> Java (C++) --> JS --> Python.
+
+## :)
+
+
